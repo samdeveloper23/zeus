@@ -1,0 +1,71 @@
+.frame {
+  background-color: #6f6f6f80;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #6f6f6f80;
+  height: 934px;
+  position: relative;
+  width: 360px;
+}
+
+.frame .whatsapp-image {
+  height: 219px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 360px;
+}
+
+.frame .AYUDA-te-estoy {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 360px;
+}
+
+.frame .estoy-abandonado-en {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 302px;
+  width: 317px;
+}
+
+.frame .img {
+  height: 301px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 484px;
+  width: 296px;
+}
+
+.frame .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 809px;
+  width: 292px;
+}
